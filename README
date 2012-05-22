@@ -1,0 +1,2 @@
+scrobble.rb: outputs html with "Now Playing" and "Current Listeners"
+title.rb: outputs plaintext "artist - song"
