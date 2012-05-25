@@ -16,4 +16,5 @@ cgi.out{
   }
 }
 else
-	cgi.out{cgi.html{cgi.body{"Radio is offline"}}}
+	cgi.out{cgi.html{cgi.head + cgi.body{"Radio is offline"}}}
+end
